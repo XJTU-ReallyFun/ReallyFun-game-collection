@@ -47,7 +47,7 @@ def warn(msg):
     flag = True
 
 
-keys = ["title", "intro", "tutorial", "entry", "link"]
+keys = ["title", "intro", "tutorial", "entry", "thumb", "link"]
 for k in keys:
     if k not in config:
         error(f"Key '{k}': not in config")
@@ -64,6 +64,10 @@ entry_path = os.path.join(
     root_dir, dst_pure_filename, config["entry"])
 if not os.path.exists(entry_path):
     error(f"Entry file '{entry_path}' not found")
+
+thumb_path = os.path.join(root_dir, config["thumb"])
+if not os.path.exists(thumb_path):
+    error(f"Thumb file '{thumb_path}' not found")
 
 for filename in os.listdir(root_dir):
     path = os.path.join(root_dir, filename)
