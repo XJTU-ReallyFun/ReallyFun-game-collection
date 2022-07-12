@@ -1,0 +1,11 @@
+title: 游戏标题
+intro: |
+  游戏简介
+  可以直接换行
+  注意缩进
+tutorial: |
+  游戏玩法教学
+  可以直接换行
+  注意缩进
+entry: 入口文件名，例如index.html
+link: 游戏来源链接
