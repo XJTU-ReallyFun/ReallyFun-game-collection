@@ -1,0 +1,10 @@
+title: 水果忍者
+intro: |
+  一个基于 HTML5 的简易版水果忍者游戏
+tutorial: |
+  以下为默认游戏规则：
+  每局游戏生命值为3，漏掉一个水果生命值减1，掉落3块后游戏结束，单局游戏无时间限制
+  切掉一个水果加1分，切到炸弹生命值立刻为0，游戏结束
+entry: index.html
+thumb: fruit-ninja.png
+link: https://www.html5tricks.com/html5-fruit-ninja.html
