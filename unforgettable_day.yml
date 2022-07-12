@@ -1,0 +1,8 @@
+title: 难忘的一天
+intro: |
+  基于phaser3的模拟写作业游戏
+tutorial: |
+  以小学生视角组建作文场景，最终创作作文。
+entry: index.html
+thumb: unforgettable_day.png
+link: https://github.com/channingbreeze/games
