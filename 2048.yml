@@ -1,0 +1,10 @@
+title: '2048'
+intro: |
+  一个基于Phase的益智消除游戏
+tutorial: |
+  玩家可以通过方向键，来控制屏幕中的小方块移动；
+  标有相同数字的小方块儿可以合二为一，其上的标记数字标为原方块儿上数字之和
+  玩家每次移动方块都会导致新的方块儿产生，每次消除会得到分数，当屏幕上已经没有空位时游戏结束
+entry: index.html
+thumb: 2048.png
+link: https://github.com/channingbreeze/games

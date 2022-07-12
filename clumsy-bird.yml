@@ -1,0 +1,10 @@
+title: clumsy-bird
+intro: |
+  一个基于休闲小游戏
+tutorial: |
+  玩家需要在游戏中操控一只小鸟躲避障碍物；
+  小鸟会自动向下飞行，玩家可以通过点击屏幕来让小鸟上升；
+  当小鸟碰撞到障碍物时，游戏结束
+entry: index.html
+thumb: clumsy-bird.png
+link: https://github.com/ellisonleao/clumsy-bird
