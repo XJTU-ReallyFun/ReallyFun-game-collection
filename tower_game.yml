@@ -7,4 +7,5 @@ tutorial: |
   成功盖楼加25分，完美盖楼加50分，连续完美盖楼额外加25分，楼层掉落扣除生命值1，单局游戏共有3次掉落机会
   栗子：第一块完美盖楼加50分，第二块连续完美盖楼加75分，第三块连续完美盖楼加100分，依此类推......
 entry: index.html
+thumb: tower_game.png
 link: https://github.com/iamkun/tower_game
