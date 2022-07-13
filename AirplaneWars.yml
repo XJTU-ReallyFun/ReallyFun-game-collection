@@ -1,0 +1,8 @@
+title: 飞机大战
+intro: |
+  JS飞机大战小游戏，躲避弹幕并且摧毁尽可能多的敌机！
+tutorial: |
+  点击鼠标并拖动飞机，躲避弹幕，摧毁敌机。
+entry: index.html
+thumb: 3DMagicCube.png
+link: https://gamecmd.cyou/h5game/yxmb/12/index.html

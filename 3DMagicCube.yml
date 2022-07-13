@@ -1,0 +1,8 @@
+title: 3D魔方
+intro: |
+  三维魔方小游戏
+tutorial: |
+  点击鼠标并拖动即可旋转魔方
+entry: index.html
+thumb: 3DMagicCube.png
+link: http://ikaros-521.gitee.io/h5_3d_magic/

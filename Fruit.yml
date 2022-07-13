@@ -1,0 +1,8 @@
+title: 水果消除
+intro: |
+  这是一个考验记忆力的小游戏，消除全部水果即可过关
+tutorial: |
+  鼠标点击方块会显示对应的水果图案，连续点击两个相同水果会将其消除
+entry: index.html
+thumb: Fruit.png
+link: https://www.yeyulingfeng.com/tools/game/yxmb/9/index.html

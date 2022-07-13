@@ -1,0 +1,9 @@
+title: 颜色爆炸
+intro: |
+  弹幕射击类游戏
+tutorial: |
+  躲避其他颜色方块射出的子弹，利用白色进行反击！
+  小键盘【左】和【右】或【A】和【D】键移动；【空格键】发射子弹
+entry: index.html
+thumb: ColorExplosion.png
+link: https://zxxgj.net/tools/youxi/20/

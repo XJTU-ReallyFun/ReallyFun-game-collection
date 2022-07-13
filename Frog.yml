@@ -1,0 +1,8 @@
+title: 青蛙吃苍蝇
+intro: |
+  兼容PC端和移动端，背景音乐开关功能，白天晚上两种背景
+tutorial: |
+  鼠标点击苍蝇所在位置即可操纵青蛙吃掉它！
+entry: index.html
+thumb: Frog.png
+link: http://47.75.124.132/h5/6/index.html

@@ -1,0 +1,8 @@
+title: 星球防御
+intro: |
+  利用轨道炮为你的保卫你的恒星，避免来自小行星的撞击
+tutorial: |
+  鼠标移动瞄准，点击发射子弹击毁小行星，存活尽可能多的时间以获得更多分数！
+entry: index.html
+thumb: PlanetaryDefense.png
+link: https://www.jq22.com/jquery-info14713

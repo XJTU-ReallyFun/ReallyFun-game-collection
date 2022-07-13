@@ -1,0 +1,13 @@
+title: 生存游戏
+intro: |
+  在漫天大雪躲避雪花中保持存活
+tutorial: |
+  1. 避免白点。
+  2. 触摸绿色点刀枪不入。
+  3. 停留在中心, 不要接触侧面
+  4. 使用不易破坏的白点。
+  5. 通过到处移动来获得额外的分数。
+  6. 活下去
+entry: index.html
+thumb: Survival.png
+link: https://funnyjs.com/game-of-life/
