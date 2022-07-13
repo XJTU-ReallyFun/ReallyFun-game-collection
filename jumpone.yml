@@ -1,0 +1,8 @@
+title: 跳一跳
+intro: |
+  基于phaser3的跳一跳游戏
+tutorial: |
+  长按鼠标蓄力以跳的更远。可选不同角色，还有增加生命值，瞄准器功能。
+entry: index.html
+thumb: jumpone.png
+link: https://github.com/channingbreeze/games
