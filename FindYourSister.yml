@@ -1,0 +1,9 @@
+title: 找你妹
+intro: |
+  经典手游《找你妹》的JS版本
+tutorial: |
+  通过在固定时间内鼠标点击游戏关卡所要求的物品进行通关，有各种小道具辅助完成
+  玩家可以通过完成关卡来解锁下一关以及更多故事
+entry: index.html
+thumb: FindYourSister.png
+link: https://github.com/OsBelief/Cocos2d-JS-Game

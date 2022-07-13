@@ -1,0 +1,11 @@
+title: canvas-tetris
+intro: |
+  一款益智消除游戏
+tutorial: |
+  经典的俄罗斯方块小游戏；
+  完整的一行小方块儿将消除并得分；
+  玩家可以通过点击来旋转下落的小方块儿
+
+entry: index.html
+thumb: canvas-tetris.png
+link: https://github.com/dionyziz/canvas-tetris

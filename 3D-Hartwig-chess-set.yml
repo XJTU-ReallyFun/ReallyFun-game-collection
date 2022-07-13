@@ -1,0 +1,8 @@
+title: 3D-Hartwig-chess-set
+intro: |
+  国际象棋游戏
+tutorial: |
+  规则与正常的国际象棋一致
+entry: index.html
+thumb: 3D-Hartwig-chess-set.png
+link: https://github.com/juliangarnier/3D-Hartwig-chess-set
