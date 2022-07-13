@@ -1,0 +1,8 @@
+title: 射击鸭子
+intro: |
+  端起猎枪，射击飞起的鸭子
+tutorial: |
+  利用WASD控制瞄准，按下空格击发，获取尽可能多的分数吧！
+entry: index.html
+thumb: DuckShooter.png
+link: https://plays.org/duck-shooter/
