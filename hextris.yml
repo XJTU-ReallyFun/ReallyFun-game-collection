@@ -1,0 +1,11 @@
+title: hextris
+intro: |
+  一款益智消除游戏
+tutorial: |
+  类似于俄罗斯方块儿的消除原理，玩家可以通过鼠标点击来控制中央六边形旋转
+  六个方向随时会到来一些彩色的边，最终增加在六边形外围
+  相同颜色的边可以消除，最终当六边形的某一方向不再能容纳边时游戏结束
+
+entry: index.html
+thumb: hextris.png
+link: https://github.com/Hextris/hextris
