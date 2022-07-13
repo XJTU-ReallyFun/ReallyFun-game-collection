@@ -1,0 +1,8 @@
+title: 人类一败涂地
+intro: |
+  风格喜庆的横板闯关游戏
+tutorial: |
+  方向键控制移动方向，空格键跳跃，r键重新开始。游戏要求躲避障碍，一命通关。
+entry: index.html
+thumb: jokingyou.png
+link: https://github.com/channingbreeze/games
