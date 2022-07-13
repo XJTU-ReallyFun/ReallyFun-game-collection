@@ -1,0 +1,9 @@
+title: 开心消消乐
+intro: |
+  经典开心消消乐游戏的简易版
+tutorial: |
+  把三个颜色相同的小动物连成一条直线，即可消除。
+  根据不同关卡要求完成不同指标即过关。
+entry: index.html
+thumb: HappyEliminate.png
+link: https://github.com/OsBelief/Cocos2d-JS-Game
