@@ -1,0 +1,8 @@
+title: 双人五子棋
+intro: |
+  可供双人游玩的五子棋小游戏
+tutorial: |
+  通过点击鼠标到对应格点，统一颜色的五个棋子相连即可获胜！
+entry: index.html
+thumb: Gobang.png
+link: https://blog.csdn.net/weixin_36403106/article/details/117939933
