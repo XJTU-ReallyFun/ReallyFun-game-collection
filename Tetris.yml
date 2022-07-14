@@ -1,0 +1,8 @@
+title: 俄罗斯方块
+intro: |
+  经典俄罗斯方块游戏
+tutorial: |
+  俄罗斯方块是一个经典的小游戏，当方块排满一排就可消去，而方块堆到最高处则游戏结束。
+entry: index.html
+thumb: Tetris.png
+link: https://tetris.com/play-tetris

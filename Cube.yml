@@ -1,0 +1,8 @@
+title: 方块闯关
+intro: |
+  控制小方块在各个关卡中突破重围，达到终点
+tutorial: |
+  使用上下左右控制小方块越过障碍，抵达终点！
+entry: index.html
+thumb: Cube.png
+link: https://www.4399.com/
