@@ -1,0 +1,9 @@
+title: 中国象棋
+intro: |
+  经典的中国象棋，还需要介绍吗？
+tutorial: |
+  可以选择对弈机器人的水平，点击悔棋撤回上一步操作。
+
+entry: index.html
+thumb: guess-words.png
+link: https://www.a5xiazai.com/

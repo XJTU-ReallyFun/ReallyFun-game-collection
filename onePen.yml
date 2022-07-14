@@ -1,0 +1,8 @@
+title: 一笔画
+intro: |
+  益智游戏，一笔画完成对应图形
+tutorial: |
+  点击每个圆珠来让线段进行连接，不可重复点亮,全部点亮即闯关成功
+entry: index.html
+thumb: onePen.png
+link: https://www.a5xiazai.com/
