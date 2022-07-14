@@ -1,0 +1,8 @@
+title: 吃豆人
+intro: |
+  经典吃豆人游戏
+tutorial: |
+  按下空格实现开始、暂停，利用上下左右按钮操纵吃豆人吃掉豆子，躲避鬼魂，获得尽可能高的分数！
+entry: index.html
+thumb: PacMan.png
+link: https://pacman.cc/
