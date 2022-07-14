@@ -1,0 +1,8 @@
+title: 看图猜词
+intro: |
+  【手机端】看图猜词小游戏
+tutorial: |
+  通过观察图片猜出对应的词条，点击下方的汉字方块，成功猜出即可前往下一关
+entry: index.html
+thumb: GuessWord.png
+link: https://gamecmd.cyou/h5game/yxmb/26/index.html
