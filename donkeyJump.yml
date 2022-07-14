@@ -1,0 +1,9 @@
+title: 驴子跳跳
+intro: |
+  从前有一只毛驴想当太空人
+tutorial: |
+  方向键控制小毛驴左右移动，踩在障碍物上实现接力跳跃
+
+entry: index.html
+thumb: donkeyJump.png
+link: hhttps://www.ymzj.cn/
