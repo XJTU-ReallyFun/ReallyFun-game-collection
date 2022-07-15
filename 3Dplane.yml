@@ -1,0 +1,10 @@
+title: 3D飞机躲避障碍
+intro: |
+  3D飞机躲避障碍游戏，鼠标控制飞行的飞机，躲避障碍
+tutorial: |
+  鼠标点击拖动控制飞机轨迹，飞行距离越远得到的分数越高，撞击到石头会损失生命值，生命值为0时游戏结束
+
+
+entry: index.html
+thumb: 3Dplane.png
+link: hhttps://www.ymzj.cn/

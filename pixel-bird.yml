@@ -1,0 +1,9 @@
+title: 像素小鸟
+intro: |
+  游戏中玩家必须控制一只胖乎乎的小鸟，跨越由各种不同长度水管组成的障碍
+tutorial: |
+  点击小鸟，让它起飞
+
+entry: index.html
+thumb: pixel-bird.png
+link: hhttps://www.ymzj.cn/

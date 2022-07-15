@@ -1,0 +1,9 @@
+title: 看图猜词
+intro: |
+  益智游戏，猜出对应图片的内涵成语
+tutorial: |
+  给你—张图片，在下列文字里选择组合—个成语，答对进入下一关(手机端更好)
+
+entry: index.html
+thumb: guess-words.png
+link: https://www.a5xiazai.com/

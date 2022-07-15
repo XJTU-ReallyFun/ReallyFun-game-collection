@@ -1,0 +1,12 @@
+title: 坦克大战
+intro: |
+  以坦克战斗及保卫基地为主题,可—人游戏或两人进行游戏
+tutorial: |
+  玩家1:大键盘移动，Space射击
+  玩家2:小键盘移动，Enter射击
+  N:下一关，P:上一关，Enter:开始
+
+
+entry: index.html
+thumb: Tankwar.png
+link: hhttps://www.ymzj.cn/
